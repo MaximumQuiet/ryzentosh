@@ -14,15 +14,7 @@
 				<key>Path</key>
 				<string>SSDT-EC0.aml</string>
 			</dict>
-			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>Path</key>
-				<string>SSDT-XCPM.aml</string>
-			</dict>
-		</array>
+	  </array>
 		<key>Block</key>
 		<array/>
 		<key>Patch</key>
@@ -225,38 +217,6 @@
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/Intel82576</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>AGPMInjector.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string></string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
-				<string>VoodooTSCSyncAMD.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<false/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/VoodooTSCSyncAMD</string>
 				<key>MaxKernel</key>
 				<string></string>
 				<key>MinKernel</key>
