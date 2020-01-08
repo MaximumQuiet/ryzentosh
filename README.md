@@ -36,3 +36,5 @@
 - [x] USB
 - [ ] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
  
+## Problems
+See [issues](https://github.com/MaximumQuiet/ryzentosh/issues)
