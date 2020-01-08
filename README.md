@@ -16,5 +16,5 @@
 - [x] CPU by [AMD-Vanilla](https://github.com/AMD-OSX/AMD_Vanilla)
 - [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC) (alcid=5)
 - [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-- [] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
+- [ ] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
  
