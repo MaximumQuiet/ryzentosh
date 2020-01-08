@@ -1,5 +1,7 @@
 # Hackintosh EFI for Ryzen 3700X &amp; XFX RX 5700XT
 
+![Screenshot](https://github.com/kdbaustert/ryzen-hackintosh/blob/master/images/about.png)
+
 ## Hardware info
 
 | Type                 | Name                              |
