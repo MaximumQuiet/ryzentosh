@@ -38,3 +38,9 @@
  
 ## Problems
 See [issues](https://github.com/MaximumQuiet/ryzentosh/issues)
+
+## Resources
+- https://vanilla.amd-osx.com/
+- https://forum.amd-osx.com/
+- https://github.com/AMD-OSX/AMD_Vanilla
+- https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/amd-config.plist/amd-config#amd
