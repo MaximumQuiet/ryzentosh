@@ -11,7 +11,8 @@
 | Audio                | ALC1220                           |
 | GPU                  | XFX Radeon RX 5700 XT THICC II    |
 | RAM                  | 16G DDR4 (8G * 2)                 |
-| Ethernet             | Intel I211                        |
+| Ethernet             | Intel I211-AT                     |
+| Disk                 | Samsung 860 EVO 250 GB            |
 
 ## Functional
 
