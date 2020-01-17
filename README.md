@@ -34,6 +34,7 @@
 - [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC) (alcid=5)
 - [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 - [x] USB
+- [x] Docker (Docker Toolbox only)
 - [ ] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
  
 ## Problems
