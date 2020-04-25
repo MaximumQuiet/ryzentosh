@@ -4,7 +4,7 @@
 
 ## OS info
 **macOS version**: 10.15.2 (19C57)
-**Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.2
+**Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.7
 
 ## Hardware info
 
@@ -44,4 +44,4 @@ See [issues](https://github.com/MaximumQuiet/ryzentosh/issues)
 - https://vanilla.amd-osx.com/
 - https://forum.amd-osx.com/
 - https://github.com/AMD-OSX/AMD_Vanilla
-- https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/amd-config.plist/amd-config#amd
+- https://dortania.github.io/OpenCore-Desktop-Guide 
