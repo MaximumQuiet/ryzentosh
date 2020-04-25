@@ -1451,7 +1451,6 @@
 			<string>ApfsDriverLoader.efi</string>
 			<string>HFSPlus.efi</string>
 			<string>OpenRuntime.efi</string>
-			<string>VirtualSmc.efi</string>
 			<string>OpenCanopy.efi</string>
 		</array>
 		<key>Input</key>
