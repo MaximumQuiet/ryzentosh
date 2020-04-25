@@ -36,6 +36,7 @@
 - [x] USB
 - [x] Docker (Docker Toolbox only)
 - [ ] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
+- [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
  
 ## Problems
 See [issues](https://github.com/MaximumQuiet/ryzentosh/issues)
