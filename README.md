@@ -36,6 +36,7 @@
 - [x] USB
 - [x] Docker (Docker Toolbox only)
 - [x] iMessage / FaceTime / Airdrop / Handoff / iCloud (**You cant't use serial, SMBIOS, etc from this repository, it must be unique for every macOS installation!**)
+- [x] FileVault
 - [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
  
 ## Problems
