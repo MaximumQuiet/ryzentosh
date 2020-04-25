@@ -35,7 +35,7 @@
 - [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 - [x] USB
 - [x] Docker (Docker Toolbox only)
-- [ ] iMessage / FaceTime / Airdrop / Handoff (not checked yet)
+- [x] iMessage / FaceTime / Airdrop / Handoff / iCloud (**You cant't use serial, SMBIOS, etc from this repository, it must be unique for every macOS installation!**)
 - [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
  
 ## Problems
