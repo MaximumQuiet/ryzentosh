@@ -3,7 +3,7 @@
 ![Screenshot](/images/about.png)
 
 ## OS info
-**macOS version**: 10.15.2 (19C57)
+**macOS version**: 10.15.4 (19E287)
 **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.7
 
 ## Hardware info
