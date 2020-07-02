@@ -4,7 +4,7 @@
 
 ## OS info
 **macOS version**: 10.15.5 (19F101)
-**Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.7
+**Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.9
 
 ## Hardware info
 
