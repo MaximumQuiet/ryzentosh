@@ -3,7 +3,7 @@
 ![Screenshot](/images/about.png)
 
 ## OS info
-**macOS version**: 10.15.4 (19E287)
+**macOS version**: 10.15.5 (19F101)
 **Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.5.7
 
 ## Hardware info
@@ -25,7 +25,6 @@
  - [[Kext] WhateverGreen](https://github.com/acidanthera/WhateverGreen)
  - [[Kext] AppleALC](https://github.com/acidanthera/AppleALC)
  - [[Kext] AppleIntelMCEReporter](https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip)
- - [[Kext] NullCPUPowerManagement](https://www.tonymacx86.com/resources/nullcpupowermanagement.268/)  
  - [[Kext] Intel-211-AT-PCEe-GBE.kext](https://www.tonymacx86.com/threads/how-to-build-your-own-imac-pro-successful-build-extended-guide.229353/page-109#post-1618005)
 
 ## Functional
