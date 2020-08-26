@@ -127,6 +127,22 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
+				<string>MacProMemoryNotificationDisabler.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/MacProMemoryNotificationDisabler</string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
 				<string>AMDRyzenCPUPowerManagement.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1484,7 +1500,7 @@
 			<key>MLB</key>
 			<string>***</string>
 			<key>ROM</key>
-			<data>***</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
@@ -1505,7 +1521,7 @@
 			<key>MLB</key>
 			<string>***</string>
 			<key>ROM</key>
-			<data>***</data>
+			<data></data>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
