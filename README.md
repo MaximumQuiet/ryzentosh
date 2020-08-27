@@ -1,10 +1,8 @@
 # Hackintosh EFI for Ryzen 3700X &amp; XFX RX 5700XT
 
-![Screenshot](/images/about.png)
+[![macOS version](https://img.shields.io/badge/macOS-10.15.6%20(19G73)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/MaximumQuiet/ryzentosh/issues/)
 
-## OS info
-**macOS version**: 10.15.5 (19F101)
-**Bootloader**: [OpenCore](https://github.com/acidanthera/OpenCorePkg) 0.6.0
+![Screenshot](/images/about.png)
 
 ## Hardware info
 
@@ -41,9 +39,6 @@
 - [x] Sleep
 - [x] Supplementary updates (update your OpenCore EFI, kexts and patches first!)
  
-## Problems
-See [issues](https://github.com/MaximumQuiet/ryzentosh/issues)
-
 ## Resources
 - https://vanilla.amd-osx.com/
 - https://forum.amd-osx.com/
