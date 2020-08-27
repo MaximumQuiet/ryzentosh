@@ -2,7 +2,9 @@
 
 [![macOS version](https://img.shields.io/badge/macOS-10.15.6%20(19G73)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/MaximumQuiet/ryzentosh/issues/)
 
-![Screenshot](/images/about.png)
+<p align="justify">
+  ![Screenshot](/images/about.png)
+</p>
 
 ## Hardware info
 
