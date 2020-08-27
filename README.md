@@ -1,12 +1,13 @@
-# Hackintosh EFI for Ryzen 3700X &amp; XFX RX 5700XT
 
 [![macOS version](https://img.shields.io/badge/macOS-10.15.6%20(19G73)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.0-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/MaximumQuiet/ryzentosh/issues/)
 
-<p align="center">
-  <img src="images/about.png" />
-</p>
+<img src="extra/catalina.png" width="150"/>
 
-## Hardware info
+# Ryzentosh
+
+Hackintosh EFI for AMD Ryzen 3700X &amp; XFX RX 5700XT.
+
+## Hardware
 
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
