@@ -1491,14 +1491,14 @@
 			<key>SystemSerialNumber</key>
 			<string>***</string>
 			<key>SystemUUID</key>
-			<string>***</string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>***</string>
+      <string></string>
 			<key>ROM</key>
 			<data></data>
 			<key>SpoofVendor</key>
@@ -1506,9 +1506,9 @@
 			<key>SystemProductName</key>
 			<string>MacPro7,1</string>
 			<key>SystemSerialNumber</key>
-			<string>***</string>
+      <string></string>
 			<key>SystemUUID</key>
-			<string>***</string>
+      <string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1519,7 +1519,7 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>P/+f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>***</string>
+			<string></string>
 			<key>ROM</key>
 			<data></data>
 		</dict>
