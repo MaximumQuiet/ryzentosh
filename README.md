@@ -1,7 +1,7 @@
 
-[![macOS version](https://img.shields.io/badge/macOS-10.15.6%20(19G2021)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.3-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/MaximumQuiet/ryzentosh/issues/)
+[![macOS version](https://img.shields.io/badge/macOS-11.0.1%20(20B50)-informational.svg)](https://www.apple.com/macos) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.6.3-informational.svg)](https://github.com/acidanthera/OpenCorePkg) [![GitHub issues](https://img.shields.io/github/issues/MaximumQuiet/ryzentosh.svg)](https://github.com/MaximumQuiet/ryzentosh/issues/)
 
-<img src="extra/catalina.png" width="150"/>
+<img src="extra/big-sur.png" width="150"/>
 
 # Ryzentosh
 
@@ -25,9 +25,8 @@ Hackintosh EFI for AMD Ryzen 3700X &amp; XFX RX 5700XT.
  - [[Kext] Lilu](https://github.com/acidanthera/Lilu)
  - [[Kext] WhateverGreen](https://github.com/acidanthera/WhateverGreen)
  - [[Kext] AppleALC](https://github.com/acidanthera/AppleALC)
- - [[Kext] AppleIntelMCEReporter](https://github.com/AMD-OSX/AMD_Vanilla/blob/master/Extra/AppleMCEReporterDisabler.kext.zip)
- - [[Kext] Intel-211-AT-PCEe-GBE](https://www.tonymacx86.com/threads/how-to-build-your-own-imac-pro-successful-build-extended-guide.229353/page-109#post-1618005)
- - [[Kext] USB-Map](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/Sample-USB-Map.kext.zip)
+ - [[Kext] SmallTreeIntel82576](https://www.tonymacx86.com/threads/how-to-build-your-own-imac-pro-successful-build-extended-guide.229353/page-109#post-1618005)
+ - [[Kext] X470-Map](https://github.com/dortania/OpenCore-Post-Install/blob/master/extra-files/Sample-USB-Map.kext.zip)
  - [Kext] RadeonBoost
 
 ## Functional
