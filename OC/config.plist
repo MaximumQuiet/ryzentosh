@@ -236,7 +236,7 @@
 		<key>Emulate</key>
 		<dict>
 			<key>DummyPowerManagement</key>
-			<false/>
+			<true/>
 			<key>Cpuid1Data</key>
 			<data></data>
 			<key>Cpuid1Mask</key>
