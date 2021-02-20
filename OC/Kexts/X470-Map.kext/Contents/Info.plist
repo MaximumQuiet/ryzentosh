@@ -175,6 +175,13 @@
 						<key>port</key>
 						<data>BgAAAA==</data>
 					</dict>
+					<key>PO17</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>0</integer>
+						<key>port</key>
+						<data>EQAAAA==</data>
+					</dict>
 				</dict>
 			</dict>
 			<key>model</key>
