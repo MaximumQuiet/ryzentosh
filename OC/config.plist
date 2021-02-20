@@ -304,6 +304,8 @@
 			<true/>
 			<key>PowerTimeoutKernelPanic</key>
 			<true/>
+      <key>SetApfsTrimTimeout</key>
+      <integer>-1</integer>
 			<key>ThirdPartyDrives</key>
 			<false/>
 			<key>XhciPortLimit</key>
@@ -1508,6 +1510,8 @@
 			<integer>0</integer>
 			<key>HibernateMode</key>
 			<string>None</string>
+      <key>LauncherPath</key>
+      <string>Default</string>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>PickerAttributes</key>
@@ -1558,8 +1562,6 @@
 			<integer>0</integer>
 			<key>AuthRestart</key>
 			<false/>
-			<key>BootProtect</key>
-			<string>Bootstrap</string>
 			<key>DmgLoading</key>
 			<string>Signed</string>
 			<key>EnablePassword</key>
@@ -1685,6 +1687,8 @@
 			<string></string>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
+      <key>MaxBIOSVersion</key>
+      <false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 		</dict>
@@ -1832,6 +1836,8 @@
 		</dict>
 		<key>Quirks</key>
 		<dict>
+      <key>DisableSecurityPolicy</key>
+      <false/>
 			<key>ExitBootServicesDelay</key>
 			<integer>0</integer>
 			<key>IgnoreInvalidFlexRatio</key>
